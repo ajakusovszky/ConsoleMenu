@@ -1,5 +1,4 @@
 from io import StringIO
-import pytest
 import sys
 
 from console_menu.menu import Menu, MenuOption
